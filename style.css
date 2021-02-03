@@ -1,0 +1,23 @@
+body {
+    background-color: skyblue;
+}
+.summary {
+    text-align: center;
+    font-size: 70%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1 {
+    text-align: center;
+    font-style: italic;
+    font-family:fantasy;
+    color:gold;
+}
+.photo {
+    text-align: center;
+    border-color: gold;
+}
+#edward {
+    border-color: gold;
+    text-align: center;
+    border-width: thick;
+}
