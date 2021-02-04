@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet"><link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap" rel="stylesheet">
+    <title>Movie</title>
+</head>
+
+<body>
+    <main>
+    <h1>Big Fish</h1>
+        <section class="photo">
+            <a href="https://www.imdb.com/title/tt0319061/" target=_blank>
+                <img src="https://i.pinimg.com/236x/39/45/4e/39454ea88b885a2ae35bf5658d7bddae--epic-movie-movie-film.jpg" alt="Flower Scene from Big Fish"></a>
+        </section>
+        <p class="summary">
+            When Edward Bloom (Albert Finney) becomes ill, his son, William (Billy Crudup), travels to be with him.
+            William
+            has a strained relationship with Edward because his father has always told exaggerated stories about his
+            life,
+            and William thinks he's never really told the truth. Even on his deathbed, Edward recounts fantastical
+            anecdotes. When William, who is a journalist, starts to investigate his father's tales, he begins to
+            understand
+            the man and his penchant for storytelling.
+        </p>
+        
+    </main>
+    <footer>
+        <p>
+        &#169; Tim Burton | 2003 |
+        </p>
+    </footer>
+
+</body>
+
+</html>
